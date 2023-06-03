@@ -28,7 +28,7 @@ header h1{
 header h2{
     font-size: 32px;
 }
-header h5{
+header h3{
     color: var(--Grayish-Blue);
     font-weight: 400;
     font-size: 18px;
@@ -66,6 +66,7 @@ header h5{
 .card h3{
     color: var(--Grayish-Blue);
     grid-column: 1;
+    font-size: 16px;
 }
 .card h2{
     justify-self: flex-start;
