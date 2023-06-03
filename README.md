@@ -10,7 +10,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://thignvs.github.io/Four-card-feature-section/)
+- Live Site URL: [Live Site](https://thignvs.github.io/Four-card-feature-section/)
 
 ### Built with
 
